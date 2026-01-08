@@ -1,16 +1,14 @@
-# My First Time Coding 🚀
+# 🧑‍💻 Santesh Rajkumar
 
-# 👋 Hi, I'm Santesh from Durban!
-
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
+🖲️ Beginner Software Developer | 🚀 Excited to Learn & Build
 
 ---
 
-## 🎯 About Me
+## 📷 About Me
 
-- 💡 I'm currently learning at coding at Codespace, Cape Town.
+- 💡 I'm currently learning to Code at Codespace, Cape Town.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
+- 🧑‍🎨 I love problem-solving and working on creative projects.
 - 🔥 Looking forward to building my first real-world application.
 
 ---
@@ -35,7 +33,7 @@
 - 🤝 Teamwork & Collaboration
 - 📢 Communication Skills
 - 🎯 Problem-Solving
-- 🚀 Adaptability
+- 🔌 Adaptability
 
 ---
 
@@ -45,10 +43,10 @@ I am working on my Codespace projects and started one of my personal projects wh
 
 ### **1️⃣ First GitHub Project**
 
-🔹 **Description:** My first project using GitHub to manage files.  
-🔹 **Status:** ✅ Completed
+🔹 **Description:** 🥇My first project using GitHub to manage files.  
+🔹 **Status:** 🚛Still Loading - standing time applies😜🃏
 
-### **2️⃣ Personal Portfolio** _(Coming Soon!)_
+### **2️⃣ Personal Portfolio** (Coming Soon!)
 
 🔹 **Description:** A simple portfolio to showcase my projects.  
 🔹 **Technologies:** HTML, CSS
