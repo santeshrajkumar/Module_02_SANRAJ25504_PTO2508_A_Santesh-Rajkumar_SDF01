@@ -43,7 +43,8 @@ I am working on my Codespace projects and started one of my personal projects wh
 
 ### **1️⃣ First GitHub Project**
 
-🔹 **Description:** 🥇My first project using GitHub to manage files.  
+🔹 **Description:** 🥇My first project using GitHub to manage files🥇
+
 🔹 **Status:** 🚛Still Loading - standing time applies😜🃏
 
 ### **2️⃣ Personal Portfolio** (Coming Soon!)
@@ -78,4 +79,4 @@ I am working on my Codespace projects and started one of my personal projects wh
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
